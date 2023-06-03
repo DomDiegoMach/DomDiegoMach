@@ -1,8 +1,8 @@
-### <h1> Oi, eu sou Diego Machado 👋 </h1>
+### <h1 style="text-align:center"> Oi, eu sou Diego Machado 👋 </h1>
 
 ### <hr>
 
-### <h3> Desenvolvedor Web </h3>
+### <h3 style="text-align:center"> Desenvolvedor Web </h3>
 
 [![card](https://github-readme-stats.vercel.app/api?username=DomDiegoMach&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
