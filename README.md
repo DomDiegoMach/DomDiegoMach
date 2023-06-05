@@ -11,6 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomDiegoMach&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" 
        alt="Diego Machado github stats"/>
 </div>
+
 <!--
 ## 🛠 Habilidades
 <div style="display: inline_block"><br>
@@ -73,7 +74,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
 <br></div>
 -->
-
+![Snake animation](https://github.com/DomDiegoMach/DomDiegoMach/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-![Snake animation](https://github.com/DomDiegoMach/DomDiegoMach/blob/output/github-contribution-grid-snake.svg)
+
