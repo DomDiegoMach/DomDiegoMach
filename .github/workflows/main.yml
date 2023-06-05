@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: DomDiegoMach
           svg_out_path: dist/github-contribution-grid-snake.svg
-      
+      - run: git add .
       - run: git status
 
       # Para as atualizações.
